@@ -1,0 +1,7 @@
+/workspace/global-pick-trade/backend/routes/auth.js:module.exports = router;
+/workspace/global-pick-trade/backend/routes/auth.js:module.exports = { verifyToken, adminOnly };
+/workspace/global-pick-trade/backend/routes/mining.js:module.exports = router;
+/workspace/global-pick-trade/backend/routes/trading.js:module.exports = router;
+/workspace/global-pick-trade/backend/routes/transactions.js:module.exports = router;
+/workspace/global-pick-trade/backend/routes/users.js:module.exports = router;
+/workspace/global-pick-trade/backend/routes/wallets.js:module.exports = router;

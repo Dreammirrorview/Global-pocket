@@ -1,0 +1,6 @@
+auth: object object
+wallets: function
+users: function
+trading: function
+mining: function
+transactions: function

@@ -1,0 +1,2 @@
+root        2468  0.0  0.0   4352  3108 ?        S    16:16   0:00 bash -lc  cd /workspace/global-pick-trade/frontend && python3 -m http.server 3000 > /tmp/frontend.log 2>&1 
+root        2475  0.1  0.4  25860 18848 ?        S    16:16   0:00 python3 -m http.server 3000
