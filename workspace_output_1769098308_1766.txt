@@ -1,0 +1,20 @@
+    await user.save();
+
+    res.json({
+      success: true,
+      message: 'Funds added successfully',
+      balance: {
+        accountBalance: user.accountBalance,
+        totalDeposits: user.totalDeposits
+      }
+    });
+  } catch (error) {
+    console.error('Add funds error:', error);
+    res.status(500).json({ 
+      success: false, 
+      message: 'Error adding funds' 
+    });
+  }
+});
+
+module.exports = router;

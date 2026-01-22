@@ -1,0 +1,6 @@
+const router = express.Router();
+
+// Start mining operation
+router.post('/start', verifyToken, async (req, res) => {
+  try {
+    const { walletId, coin, hashrate, powerConsumption, settings } = req.body;

@@ -1,0 +1,10 @@
+total 380
+drwxr-xr-x   5 root root   4096 Jan 22 16:10 .
+drwxr-xr-x   7 root root   4096 Jan 22 15:26 ..
+-rw-r--r--   1 root root    839 Jan 22 15:52 .env
+drwxr-xr-x   2 root root   4096 Jan 22 15:34 models
+drwxr-xr-x 549 root root  20480 Jan 22 16:10 node_modules
+-rw-r--r--   1 root root 334004 Jan 22 16:10 package-lock.json
+-rw-r--r--   1 root root    748 Jan 22 15:27 package.json
+drwxr-xr-x   2 root root   4096 Jan 22 15:52 routes
+-rw-r--r--   1 root root   6155 Jan 22 15:28 server.js
